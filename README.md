@@ -1,2 +1,2 @@
-# Model Evaluation
-Create statistical plots to evaluate the Community Multiscale Air Quality (CMAQ) model
+# CMAQ Model Evaluation
+Create data visualizations to evaluate the U.S. EPA's Community Multiscale Air Quality (CMAQ) model
